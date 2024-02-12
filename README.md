@@ -6,6 +6,7 @@ At Zephyr Hardware, a global electronics leader, we're transitioning to a data-d
 ## Data and Modelling
 We used a MySQL database to load the data and connected it with Power BI. Data modeling was done in Power BI using the Power Query editor and DAX measures we built as per requirements. Visualizations were then built for the following views:
 ## **Finance View:**
+![dashboard](./Dashboard_images/Home.png)
 
 ## **Sales View:**
 

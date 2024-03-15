@@ -4,7 +4,7 @@
 At Zephyr Hardware, a global electronics leader, we're transitioning to a data-driven approach with Power BI and SQL to tackle operational challenges. Over-reliance on Excel caused setbacks in certain regions, prompting a data analytics initiative by senior management. Leveraging last year's data, our goal is to enhance performance.
 
 # **For more details on the analysis and full view of the Power BI report, please refer to the attached [PDF report](./Zephyr_hardware_analytics_report.pdf).**
-
+# Live Dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiZGExZjFjMmQtOWU0ZS00NWU5LWE1MmEtMGIwZDA2MWVlMTMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Data and Modelling
 We used a MySQL database to load the data and connected it with Power BI. Data modeling was done in Power BI using the Power Query editor and DAX measures we built as per requirements. Visualizations were then built for the following views:
 ## **Finance View:**
